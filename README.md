@@ -100,8 +100,9 @@ Suggestions and improvements are always appreciated.
 
 👨‍💻 Developer
 
-Abdur Rahman
-Computer & Communication Engineering Student
+## Abdur Rahman
+
+- Computer & Communication Engineering Student
 
 🔹 Passionate about modern web design
 🔹 Focused on clean UI & structured development
