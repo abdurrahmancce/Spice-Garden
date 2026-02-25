@@ -98,6 +98,25 @@ Suggestions and improvements are always appreciated.
 
 ---
 
+👨‍💻 Developer
+
+Abdur Rahman
+Computer & Communication Engineering Student
+
+🔹 Passionate about modern web design
+🔹 Focused on clean UI & structured development
+🔹 Interested in creative and scalable solutions
+
+Portfolio :
+
+https://abdurrahmancce.github.io/Personal-Resume-Website/
+
+GitHub Profile:
+
+https://github.com/abdurrahmancce
+
+---
+
 ## 🌟 Final Words
 
 Spice Garden represents more than just a website.  
