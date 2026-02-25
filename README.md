@@ -71,3 +71,39 @@ Everything is built from scratch to maintain full control and clarity.
 ### 🏠 Home Page
 <img width="1408" height="717" alt="image" src="https://github.com/user-attachments/assets/5df9aa52-f764-4117-96f8-bd08251b1642" />
 
+---
+
+## 🤝 Contribution
+
+Contributions are welcome.
+
+If you’d like to improve this project:
+
+1. Fork the repository
+2. Create a feature branch
+3. Commit changes
+4. Open a pull request
+
+Suggestions and improvements are always appreciated.
+
+---
+
+## 📌 Future Improvements
+
+- Backend integration (Node.js / Express)
+- Database for reservations
+- Admin dashboard
+- Online ordering system
+- Authentication system
+
+---
+
+## 🌟 Final Words
+
+Spice Garden represents more than just a website.  
+It reflects attention to detail, structured development, and modern front-end practices.
+
+If you found this project helpful or inspiring, consider giving it a ⭐ on GitHub.
+
+Thank you for visiting.
+
