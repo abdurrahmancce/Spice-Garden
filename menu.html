@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Spice Garden | Menu</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="header">
+<div class="container nav">
+<h1 class="logo">Spice Garden</h1>
+<nav>
+<ul class="nav-links" id="navLinks">
+<li><a href="index.html">Home</a></li>
+<li><a href="about.html">About</a></li>
+<li><a href="menu.html">Menu</a></li>
+<li><a href="contact.html">Contact</a></li>
+</ul>
+</nav>
+<button class="menu-btn" id="menuBtn">☰</button>
+</div>
+</header>
+
+<section class="section">
+<div class="container">
+<h2>Our Menu</h2>
+
+<div class="filter-buttons">
+<button data-filter="all" class="active">All</button>
+<button data-filter="veg">Veg</button>
+<button data-filter="nonveg">Non-Veg</button>
+<button data-filter="seafood">Seafood</button>
+</div>
+
+<div class="grid" id="menuItems">
+
+<div class="card" data-category="veg">
+<div class="card-img">
+<img src="pasta.png" alt="Vegetable Pasta">
+</div>
+<h3>Vegetable Pasta</h3>
+<p>300 BDT</p>
+</div>
+
+<div class="card" data-category="nonveg">
+<div class="card-img">
+<img src="Grilled Chicken.png" alt="Grilled Chicken">
+</div>
+<h3>Grilled Chicken</h3>
+<p>499 BDT</p>
+</div>
+
+<div class="card" data-category="nonveg">
+<div class="card-img">
+<img src="Kacchi_Biriyani.png" alt="Kacchi Biriyani">
+</div>
+<h3>Kacchi Biriyani</h3>
+<p>550 BDT</p>
+</div>
+
+<div class="card" data-category="seafood">
+<div class="card-img">
+<img src="Seafood Pasta.png" alt="Seafood Pasta">
+</div>
+<h3>Seafood Pasta</h3>
+<p>250 BDT</p>
+</div>
+
+</div>
+</div>
+</section>
+
+<footer>
+<p>© 2026 Spice Garden</p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>

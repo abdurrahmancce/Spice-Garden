@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Spice Garden | Contact</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="header">
+<div class="container nav">
+<h1 class="logo">Spice Garden</h1>
+
+<nav>
+<ul class="nav-links" id="navLinks">
+<li><a href="index.html">Home</a></li>
+<li><a href="about.html">About</a></li>
+<li><a href="menu.html">Menu</a></li>
+<li><a href="contact.html">Contact</a></li>
+</ul>
+</nav>
+
+<button class="menu-btn" id="menuBtn">☰</button>
+</div>
+</header>
+
+<section class="section">
+<div class="container">
+<h2>Reserve a Table</h2>
+
+<form id="reservationForm" novalidate>
+<input type="text" id="resName" placeholder="Full Name" required>
+<input type="email" id="resEmail" placeholder="Email Address" required>
+<input type="date" id="resDate" required>
+<input type="time" id="resTime" required>
+<input type="number" id="guests" placeholder="Number of Guests" min="1" max="20" required>
+<button type="submit" class="btn">Book Now</button>
+<p id="resMessage"></p>
+</form>
+<!-- Confirmation Modal -->
+<div class="modal" id="confirmationModal">
+  <div class="modal-content">
+    <span class="close-btn" id="closeModal">&times;</span>
+    <h3>Reservation Confirmed 🎉</h3>
+    <p>Your table has been successfully booked.</p>
+  </div>
+</div>
+</div>
+</section>
+
+<footer>
+<p>© 2026 Spice Garden</p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
